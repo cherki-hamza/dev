@@ -1,0 +1,31 @@
+body{
+    background-image: url(../img/img3.jpg);
+}
+
+.card{
+    height: 600px;
+    width: 1000px;
+}
+
+hr{
+    width: 2px;
+    height: 300px;
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+.bg1{
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+.dev{
+    background-image: linear-gradient(to top, #209cff 0%, #68e0cf 100%);
+}
+
+nav{
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.bold{
+    font-weight: bold;
+}
